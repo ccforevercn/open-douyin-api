@@ -1,0 +1,20 @@
+{
+    "name": "ccforevercn/open-douyin-api",
+    "description": "抖音开发平台接口封装",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ccforevercn\\OpenDouyinApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ccforever",
+            "email": "ccforevercn@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    }
+}
